@@ -1,7 +1,8 @@
-![capa](https://user-images.githubusercontent.com/73513364/105436418-ea624000-5c3d-11eb-83f0-1ded78c647d0.png)
-<hr></hr>
-<h1>>_whoami</h1>
+<h1>Hello, World</h1>
 
-- 🌱 I’m currently learning: Java, MySQL and Spring Boot ...
-- 👯 I’m looking to collaborate in new projects to learn more ...
-- ⚡ Fun fact: I could play Shadow of the Colossus forever ...
+- Bilingual Support Analyst at @MC1.
+- Software Development at @FIAP. 
+- I like to study languages that came from Latin.
+- You can also find me on [LinkedIn](https://www.linkedin.com/in/beymarjhoel/).
+
+![](https://cdnb.artstation.com/p/assets/images/images/015/789/605/original/kaitlyn-dougon-sasha-s-window.gif?1549643712)
