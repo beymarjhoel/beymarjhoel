@@ -1,7 +1,7 @@
 <h1>Hello, World</h1>
 
 - Bilingual Support Analyst at @MC1.
-- Software Development at @FIAP. 
+- Software Development Student at @FIAP. 
 - I like to study languages that came from Latin.
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/beymarjhoel/).
 
